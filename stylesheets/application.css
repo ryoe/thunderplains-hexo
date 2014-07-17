@@ -4501,9 +4501,11 @@ header {
       width: 1em;
       vertical-align: middle;
       margin: -0.2em 0.5em 0 0; }
-    #schedule .schedule-legend span.legend-largeroom:before {
+    #schedule .schedule-legend span.legend-room1:before {
       background: #b27d97; }
-    #schedule .schedule-legend span.legend-smallroom:before {
+    #schedule .schedule-legend span.legend-room2:before {
+      background: #e5c1a0; }
+    #schedule .schedule-legend span.legend-room3:before {
       background: #e5c1a0; }
 #schedule .schedule-list {
   border: 1px solid #f2ece4;
